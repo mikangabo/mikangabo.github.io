@@ -18,7 +18,7 @@ summary: My team developed a vaccination system that was helpful sampling vaccin
   <img class="ui image" src="../images/covid_home.png">
   <img class="ui image" src="../images/covid_form.png">
   <img class="ui image" src="../images/Usecase.jpg">
-  <img class="ui image" src="../images/entity_relationship.png">
+  <img class="ui image" src="../images/entity_relationship.jpg">
 </div>
 
 Covid-19 Vaccination System is an application system which helps in collecting information for outbreak diseases, and in this particular case, Corona. The system is made up of a front-end User Interface that helps in filling registration form and a backend database that helps in recording the information from the user. The system now helps need to keep track of patients who recently contracted the disease and facilitates them to schedule appointment with a medical practicioner. It records the vaccination process from start to finish and awards a certificate on the last prescription taken.
