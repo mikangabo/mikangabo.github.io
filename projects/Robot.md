@@ -15,7 +15,10 @@ summary: A summary of small robots programmed during my stay at TsquaredRobotics
 ---
 
 <img class="ui medium right floated rounded image" src="../images/trash_col3.jpg">
-[wallclimber](https://drive.google.com/file/d/1nALw5E7-JXrmX31_kW7H3qsrn8nBQoON/view?usp=sharing)
+Checkout wall climber and mountain climber
+
+<a href="https://drive.google.com/file/d/1nALw5E7-JXrmX31_kW7H3qsrn8nBQoON/view?usp=sharing" >wall climber</a>
+<a href="https://drive.google.com/file/d/1MvvNOZsJ_ywHNlDivV3LYG4eweUM9Ph8/view?usp=sharing" >mountain climber</a>
 
 Robot is a compendium of robotics systems developed during our stay at tsquaredrobotics where by we programmed them to achieve specific tasks.
 
