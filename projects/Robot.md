@@ -14,7 +14,7 @@ labels:
 summary: A summary of small robots programmed during my stay at TsquaredRobotics.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/trash_col1.jpg">
+<img class="ui medium right floated rounded image" src="../images/trash_col2.jpg">
 Checkout wall climber and mountain climber
 
 <a href="https://drive.google.com/file/d/1nALw5E7-JXrmX31_kW7H3qsrn8nBQoON/view?usp=sharing" >wall climber</a>
