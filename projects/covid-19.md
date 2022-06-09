@@ -29,7 +29,7 @@ For this project, I was the UML designer who was responsible for designing the d
 There were many actors involved so I had to compress usecases to make diagram comprehensible to the programmer. I then moved on to class and entity relationship diagram which made a way for the programmer to start coding, and lastly I designed the Sequence, Data Flow and Deployment diagram.
 
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+You can learn more at the [github](https://github.com/mikangabo/covid-19-management-system/blob/main/README.md).
 
 
 
