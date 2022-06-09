@@ -2,15 +2,16 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Micromouse
+title: Vaccination system
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2021-06-23
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - UML
+  - HTML
+  - CSS
+  - JavaScript
+summary: My team developed a vaccination system that was helpful sampling vaccination data from patients across the nation.
 ---
 
 <div class="ui small rounded images">
@@ -20,23 +21,13 @@ summary: My team developed a robotic mouse that won first place in the 2015 UH M
   <img class="ui image" src="../images/micromouse-circuit.png">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+Covid-19 Vaccination System is an application system which helps in collecting information for outbreak diseases, and in this particular case, Corona. The system is made up of a front-end User Interface that helps in filling registration form and a backend database that helps in recording the information from the user. The system now helps need to keep track of patients who recently contracted the disease and facilitates them to schedule appointment with a medical practicioner. It records the vaccination process from start to finish and awards a certificate on the last prescription taken.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+The system also helps the medical institution report to the ministry of health on status of the outbreak providing information like the tally of the sick, rate of contraction, preferred vaccination medicine and much more.
 
-Here is some code that illustrates how we read values from the line sensors:
+For this project, I was the UML designer who was responsible for designing the database schema, providing diagrams of deployment, classes, Entity Relationship, Data Flow and many others.  I started by designing a meaningful Use Case diagram detailing the functions and actors of the systems.
+There were many actors involved so I had to compress usecases to make diagram comprehensible to the programmer. I then moved on to class and entity relationship diagram which made a way for the programmer to start coding, and lastly I designed the Sequence, Data Flow and Deployment diagram.
 
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
 
 You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
 
