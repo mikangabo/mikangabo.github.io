@@ -31,4 +31,4 @@ The mountain climber is similar in programming though both pairs rotate in the s
 
 In this project I gained experience with a functional robot and programming logic, including [EV3](https://education.lego.com/en-us/downloads/mindstorms-ev3/software)) for programming, the [Lego Mindstorms](https://www.lego.com/en-us/product/lego-mindstorms-ev3-31313) for robot construction. 
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+#Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
