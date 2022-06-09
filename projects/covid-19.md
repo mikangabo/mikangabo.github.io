@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Vaccination system
+title: Covid-19 Vaccination system
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
 date: 2021-06-23
