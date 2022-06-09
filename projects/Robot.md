@@ -14,7 +14,8 @@ labels:
 summary: A summary of small robots programmed during my stay at TsquaredRobotics.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/trash_col3.jpg">
+[wallclimber](https://drive.google.com/file/d/1nALw5E7-JXrmX31_kW7H3qsrn8nBQoON/view?usp=sharing)
 
 Robot is a compendium of robotics systems developed during our stay at tsquaredrobotics where by we programmed them to achieve specific tasks.
 
