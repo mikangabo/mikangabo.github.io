@@ -29,7 +29,7 @@ There were many actors involved so I had to compress usecases to make diagram co
 <img class="ui image" src="../images/Usecase.jpg">
   <img class="ui image" src="../images/entity_relationship.jpg">
 </div>
-You can learn more at the [github](https://github.com/mikangabo/covid-19-management-system/blob/main/README.md).
+You can learn more at the [github](https://github.com/mikangabo/covid-19-management-system/).
 
 
 
