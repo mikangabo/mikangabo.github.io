@@ -10,7 +10,7 @@ labels:
   - Network Programming
 ---
 
-<img class="ui medium left floated image" src="https://drive.google.com/file/d/1xJcgGWg5l36NsacUXP7ReL8pFhbdQre8/view?usp=sharing">
+<img class="ui medium right floated image" src="https://drive.google.com/file/d/1xJcgGWg5l36NsacUXP7ReL8pFhbdQre8/view?usp=sharing">
 
 ## Is there such thing as a Network Programmer?
 
