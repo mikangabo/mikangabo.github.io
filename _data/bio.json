@@ -18,12 +18,12 @@
       {
         "network": "github",
         "username": "mikangabo",
-        "url": "http://github.com/changeme"
+        "url": "https://github.com/mikangabo"
       },
       {
         "network": "linkedin",
         "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "url": "linkedin.com/in/mika-ngabo-a2b23315b"
       },
       {
         "network": "twitter",
@@ -32,26 +32,26 @@
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "ngabomika",
+        "url": "http://instagram.com/ngabomika"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Network Engineering",
       "keywords": [
         "Arduino",
         "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Cloud computing",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Data Science",
       "keywords": [
       ]
     }
@@ -65,30 +65,29 @@
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
-      ]
+        "Python",
+              ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
+        "Windows Server",
         "Ubuntu",
+        "Redhat 7",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Google Compute Engine"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "Adventist University of Central Africa AUCA",
+      "area": "Information Technology (expected Spring, 2022)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2017-09-11",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "~15",
       "courses": [
       ]
     }
