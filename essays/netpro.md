@@ -3,14 +3,14 @@ layout: essay
 type: essay
 title: Smart Questions, Good Answers
 # All dates must be YYYY-MM-DD format!
-date: 2015-09-08
+date: 2021-09-08
 labels:
   - QuestionsSoftware
   - Bugs
   - Network Programming
 ---
 
-<img class="ui medium right floated image" src="https://drive.google.com/file/d/1D7Xllvlr6HzkkbPxn5ODbB15X_EjWION/view?usp=sharing">
+<img class="ui medium left floated image" src="https://drive.google.com/file/d/1D7Xllvlr6HzkkbPxn5ODbB15X_EjWION/view?usp=sharing">
 
 ## Is there such thing as a Network Programmer?
 
