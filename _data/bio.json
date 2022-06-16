@@ -60,24 +60,26 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "level": "",
+      "level": "intermediate",
       "keywords": [
         "C",
         "C++",
         "Java",
         "Javascript",
         "Python",
-              ]
+       ]
     },
     {
       "name": "Toolsets/OS",
-      "level": "",
+      "level": "intermediate",
       "keywords": [
         "Windows Server",
         "Ubuntu",
         "Redhat 7",
         "Git/GitHub",
-        "Google Compute Engine"
+        "Google Compute Engine",
+        "Arduino",
+        "CAD and 3D manufacturing"
       ]
     }
   ],
@@ -95,36 +97,30 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "TsquaredRobotics",
+      "position": "Trainer",
+      "website": "www.tsquaredrobotics.com",
+      "startDate": "2021-06-01",
+      "endDate": "2022-01-01",
+      "summary": "Head of Degree program",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Maintain, update, and oversee degree program courses and enrollement",
+        ""
       ]
     },
     ],
-  "awards": [
+  "Certificate": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Certificate of Competence in Teachers Training",
+      "date": "2021-05-01",
+      "awarder": "Tsquaredrobotics",
+      "summary": "Certificate offered to successful trainees on Robotics training."
     }
   ],
   "references": [
     {
-      "name": "Available upon request",
-      "reference": ""
+      "name": "CYIZA Tresor",
+      "reference": "+250780310798"
     }
   ]
 }
