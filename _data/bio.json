@@ -6,7 +6,7 @@
     "email": "ngabomika211@gmail.com",
     "phone": "0780310798",
     "website": "https://mikangabo.github.io",
-    "summary": "I am studying for a B.S. in Information Technology in the Department of Networks and Telecommunication Systems at the AUCA. I expect to graduate in Spring, 2022.",
+    "summary": "I am a Bachelor's Degree holder in Networks and Telecommunication Systems at the AUCA. I expect to graduate in Spring, 2022.",
     "location": {
       "address": "",
       "postalCode": "1322",
@@ -101,13 +101,20 @@
       "position": "Trainer",
       "website": "www.tsquaredrobotics.com",
       "startDate": "2021-06-01",
-      "endDate": "2022-01-01",
+      "endDate": "2022-12-01",
       "summary": "Head of Degree program",
       "highlights": [
         "Maintain, update, and oversee degree program courses and enrollement",
         ""
       ]
     },
+    {
+      "company": "fiverr.com",
+      "position": "freelancer",
+      "website": "www.fiverr.com/mikangabo",
+      "startDate": "2019-04-01",
+      "endDate": "Present"
+    }
     ],
   "Certificate": [
     {
