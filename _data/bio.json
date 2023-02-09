@@ -6,7 +6,7 @@
     "email": "ngabomika211@gmail.com",
     "phone": "0780310798",
     "website": "https://mikangabo.github.io",
-    "summary": "I am a Bachelor's Degree holder in Networks and Telecommunication Systems at the AUCA. I expect to graduate in Spring, 2022.",
+    "summary": "I am a Bachelor's Degree holder in Networks and Telecommunication Systems at the AUCA",
     "location": {
       "address": "",
       "postalCode": "1322",
@@ -29,6 +29,11 @@
         "network": "instagram",
         "username": "ngabomika",
         "url": "http://instagram.com/ngabomika"
+      },
+      {
+        "network": "fiverr",
+        "username": "mikangabo",
+        "url": "https://www.fiverr.com/mikangabo"
       }
     ]
   },
