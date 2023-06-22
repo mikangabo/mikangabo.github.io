@@ -3,7 +3,7 @@
     "name": "Mika Ngabo",
     "label": "Network Engineer",
     "picture": "https://github.com/mikangabo.png",
-    "email": "ngabomika211@gmail.com",
+    "email": "Mika.Ngabo@mtn.com",
     "phone": "0780310798",
     "website": "https://mikangabo.github.io",
     "summary": "I am a Network engineer currently building skills in Business analysis in MTN Rwanda.",
@@ -15,26 +15,7 @@
       "region": "Nyarutarama"
     },
     "profiles": [
-      {
-        "network": "github",
-        "username": "mikangabo",
-        "url": "https://github.com/mikangabo"
-      },
-      {
-        "network": "linkedin",
-        "username": "Mika Ngabo",
-        "url": "linkedin.com/in/mika-ngabo-a2b23315b"
-      },
-      {
-        "network": "instagram",
-        "username": "ngabomika",
-        "url": "http://instagram.com/ngabomika"
-      },
-      {
-        "network": "fiverr",
-        "username": "mikangabo",
-        "url": "https://www.fiverr.com/mikangabo"
-      }
+      
     ]
   },
   "interests": [
