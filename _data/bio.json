@@ -6,13 +6,13 @@
     "email": "ngabomika211@gmail.com",
     "phone": "0780310798",
     "website": "https://mikangabo.github.io",
-    "summary": "I am a Bachelor's Degree holder in Networks and Telecommunication Systems at the AUCA",
+    "summary": "I am a Network engineer currently building skills in Business analysis in MTN Rwanda.",
     "location": {
       "address": "",
       "postalCode": "1322",
       "city": "Kigali",
       "countryCode": "RW",
-      "region": "Gishushu"
+      "region": "Nyarutarama"
     },
     "profiles": [
       {
@@ -42,7 +42,8 @@
       "name": "Network Engineering",
       "keywords": [
         "OpenVswitch",
-        "Ryu"
+        "Ryu",
+        "Nagios",
       ]
     },
     {
@@ -51,14 +52,18 @@
         "GCE",
         "docker",
         "kubernetes",
-        "ansible"
+        "ansible",
+        "jenkins",
+        "AZure DevOps",
+        "Amazon AWS",
+        "turnkey linux"
       ]
     },
     {
-      "name": "Data Science",
+      "name": "Data Analytics",
       "keywords": [
-        "matplotlib",
-        "numpy"
+        "Excel",
+        "powerBI"
       ]
     }
   ],
@@ -68,7 +73,6 @@
       "level": "intermediate",
       "keywords": [
         "C",
-        "C++",
         "Java",
         "Javascript",
         "Python",
@@ -78,13 +82,13 @@
       "name": "Toolsets/OS",
       "level": "intermediate",
       "keywords": [
-        "Windows Server",
+        Wireshark",
         "Ubuntu",
         "Redhat 7",
         "Git/GitHub",
         "Google Compute Engine",
-        "Arduino",
-        "CAD and 3D manufacturing"
+        "CAD and 3D manufacturing",
+        "MS Excel"
       ]
     }
   ],
@@ -110,8 +114,7 @@
       "summary": "Head of Degree program",
       "highlights": [
         "Maintain, update, and oversee degree program courses and enrollement",
-        ""
-      ]
+        ]
     },
     {
       "company": "fiverr.com",
