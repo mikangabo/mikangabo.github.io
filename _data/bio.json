@@ -15,7 +15,27 @@
       "region": "Nyarutarama"
     },
     "profiles": [
-      
+       "picture": "https://github.com/mikangabo.png",
+      {
+        "network": "github",
+        "username": "mikangabo",
+        "url": "https://github.com/mikangabo"
+      },
+      {
+        "network": "linkedin",
+        "username": "Mika Ngabo",
+        "url": "linkedin.com/in/mika-ngabo-a2b23315b"
+      },
+      {
+        "network": "instagram",
+        "username": "ngabomika",
+        "url": "http://instagram.com/ngabomika"
+      },
+      {
+        "network": "fiverr",
+        "username": "mikangabo",
+        "url": "https://www.fiverr.com/mikangabo"
+      }
     ]
   },
   "interests": [
