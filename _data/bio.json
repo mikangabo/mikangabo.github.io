@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Mika Ngabo",
-    "label": "Network Engineer",
+    "label": "Business Analyst",
     "picture": "https://github.com/mikangabo.png",
     "email": "Mika.Ngabo@mtn.com",
     "phone": "0780310798",
@@ -40,24 +40,11 @@
   },
   "interests": [
     {
-      "name": "Network Engineering",
+      "name": "Business Analytics",
       "keywords": [
-        "OpenVswitch",
-        "Ryu",
-        "Nagios",
-      ]
-    },
-    {
-      "name": "Cloud computing",
-      "keywords": [
-        "GCE",
-        "docker",
-        "kubernetes",
-        "ansible",
-        "jenkins",
-        "AZure DevOps",
-        "Amazon AWS",
-        "turnkey linux"
+        "PowerBI",
+        "Excel",
+        "Trends",
       ]
     },
     {
@@ -122,6 +109,13 @@
       "position": "freelancer",
       "website": "www.fiverr.com/mikangabo",
       "startDate": "2019-04-01",
+      "endDate": "2023-04-17"
+    },
+    {
+      "company": "MTN Rwanda",
+      "position": "Business Analyst",
+      "website": "www.mtn.com",
+      "startDate": "2023-04-01",
       "endDate": "Present"
     }
     ],
